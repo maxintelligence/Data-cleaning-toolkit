@@ -75,4 +75,4 @@ pip install pandas numpy
 Then import the toolkit in your project:
 
 python-
-from cleaning_utils import handle_missing, remove_duplicates, fix_dtypes, remove_outliers, clean_strings
+from cleaning_utilitis import handle_missing, remove_duplicates, fix_dtypes, remove_outliers, clean_strings
