@@ -1,3 +1,7 @@
+# Data Cleaning Toolkit
+# Version: 1.0.0
+# Author: Ugorji Maxwell
+
 import pandas as pd
 import numpy as np
 
